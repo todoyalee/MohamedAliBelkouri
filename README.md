@@ -1,1 +1,1 @@
-# MohamedAliBelkouri
+# my name is  MohamedAliBelkouri  and this is a project i did , it's a motivational website ,  i did use animma image and anime quotes to help the person worrk more , i did use the automatic speech recognition , u can type or talk and what you'r saying will be written down in an instant , It's a funny cool project  , u can add what u want on it 
